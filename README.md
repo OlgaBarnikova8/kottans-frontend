@@ -19,8 +19,7 @@ The exchange of messages between the client and the server takes place according
 The client initiates communication by sending an HTTP request message, in response to which the server sends an HTTP response message.
 Familiarized with URL structure, methods, and status codes.
 I learned that HTTPS is an extension of the HTTP protocol to support encryption in order to improve security.
-
 The second part is more complicated. I learned more about the need to identify clients, about cookies.
 
 Thanks to these articles, I got an idea about the HTTP protocol and the problems it solves
-
+In the future, as a user, I will confirm cookie requests and sign up.
