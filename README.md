@@ -23,3 +23,7 @@ The second part is more complicated. I learned more about the need to identify c
 
 Thanks to these articles, I got an idea about the HTTP protocol and the problems it solves
 In the future, as a user, I will confirm cookie requests and sign up.
+
+## Git Collaboration
+I learned how it works with Git. 
+Git rebase it's a new command for me. I think it will be possible to use in practice. 
