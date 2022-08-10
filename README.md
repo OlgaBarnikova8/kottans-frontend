@@ -32,3 +32,5 @@ I learned about a good advice for project on GitHub:
 reply promptly to pull-requests;
 understand any changes you accept;
 use an issue tracker. 
+
+In the https://learngitbranching.js.org level, I tried out the git rebase command (for a linear and pure sequence of commits) in practice.
