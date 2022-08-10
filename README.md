@@ -27,4 +27,8 @@ In the future, as a user, I will confirm cookie requests and sign up.
 ## Git Collaboration
 I learned how it works with Git. 
 Git rebase it's a new command for me. I think it will be possible to use in practice.
-I learned about using an issue tracker on GitHub.
+
+I learned about a good advice for project on GitHub: 
+reply promptly to pull-requests;
+understand any changes you accept;
+use an issue tracker. 
