@@ -37,4 +37,5 @@ In the https://learngitbranching.js.org level, I tried out the git rebase comman
 
 I practiced a new command git fetch that is responsible for synchronization with a remote repository.
 A command git fakeTeamwork surprised me (teamwork simulation).
-https://github.com/OlgaBarnikova8/kottans-frontend/blob/main/task_git_collaboration/git-collaboration-4.jpg
+![image](https://user-images.githubusercontent.com/110328930/184479460-1b5ce7e5-c4b5-45bf-98d8-3b0f56d23839.png)
+
