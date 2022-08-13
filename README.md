@@ -34,3 +34,6 @@ understand any changes you accept;
 use an issue tracker. 
 
 In the https://learngitbranching.js.org level, I tried out the git rebase command (for a linear and pure sequence of commits) in practice.
+
+I practiced a new command git fetch that is responsible for synchronization with a remote repository.
+A command git fakeTeamwork surprised me (teamwork simulation).
