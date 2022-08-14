@@ -39,3 +39,6 @@ I practiced a new command git fetch that is responsible for synchronization with
 A command git fakeTeamwork surprised me (teamwork simulation).
 ![image](https://user-images.githubusercontent.com/110328930/184479460-1b5ce7e5-c4b5-45bf-98d8-3b0f56d23839.png)
 
+## Intro to HTML and CSS
+https://github.com/OlgaBarnikova8/kottans-frontend/blob/main/task_html_css_intro/html_css_intro_1.jpg
+
