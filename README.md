@@ -41,4 +41,7 @@ A command git fakeTeamwork surprised me (teamwork simulation).
 
 ## Intro to HTML and CSS
 https://github.com/OlgaBarnikova8/kottans-frontend/blob/main/task_html_css_intro/html_css_intro_1.jpg
+I created my site on GitHub for the first time, I will use it in the future.
+I liked 9th lecture "Links to section of the same page", I will use it in practice. 
+https://www.coursera.org/learn/html-css-javascript-for-web-developers/lecture/kMmI7/lecture-9-creating-links
 
