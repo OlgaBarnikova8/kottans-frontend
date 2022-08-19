@@ -53,5 +53,6 @@ I learned about background properties: image, repeat, position. I plan to win in
 In the course Learn HTML https://www.codecademy.com/learn, I practiced a new tag VIDEO, learned about HTML FORM and Semantic HTML.
 I was surprised by the great possibilities of the tag FORM and I plan to use it in the future.
 
+I was impressed with the style options: wide range of color, tint, opacity and font family.
 
 
