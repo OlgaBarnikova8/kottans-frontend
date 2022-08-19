@@ -40,6 +40,8 @@ A command git fakeTeamwork surprised me (teamwork simulation).
 ![image](https://user-images.githubusercontent.com/110328930/184479460-1b5ce7e5-c4b5-45bf-98d8-3b0f56d23839.png)
 
 ## Intro to HTML and CSS
+![image](https://user-images.githubusercontent.com/110328930/185641062-281d1501-e112-4dd3-bc08-deb2233d79fa.png)
+
 https://github.com/OlgaBarnikova8/kottans-frontend/blob/main/task_html_css_intro/html_css_intro_1.jpg
 
 I created my site on GitHub for the first time, I will use it in the future.
