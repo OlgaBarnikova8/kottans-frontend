@@ -55,4 +55,7 @@ I was surprised by the great possibilities of the tag FORM and I plan to use it 
 
 I was impressed with the style options: wide range of color, tint, opacity and font family.
 
-
+## Responsive Web Design
+Flexbox is an interesting topic. 
+I plan to use working with elements in the future: 
+justify-content, align-items, flex-direction, order, align-self, flex-wrap, flex-flow, align-content.
