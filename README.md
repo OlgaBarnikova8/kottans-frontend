@@ -59,3 +59,6 @@ I was impressed with the style options: wide range of color, tint, opacity and f
 Flexbox is an interesting topic. 
 I plan to use working with elements in the future: 
 justify-content, align-items, flex-direction, order, align-self, flex-wrap, flex-flow, align-content.
+![image](https://user-images.githubusercontent.com/110328930/185797936-99e19c17-8335-4954-9efc-54025e1a7724.png)
+I got familiar with CSS Grid Layout.
+Everything is new and exciting for me, I still need to practice this topic.
