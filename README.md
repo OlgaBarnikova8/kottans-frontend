@@ -64,5 +64,7 @@ I got familiar with CSS Grid Layout.
 Everything is new and exciting for me, I still need to practice this topic.
 
 ## HTML and CSS practice: Hooli-style Popup
-[Demo] (https://olgabarnikova8.github.io/hooli-style-popup/) |
-[Code base] (https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/Popup)
+[Demo](https://olgabarnikova8.github.io/hooli-style-popup/) |
+[Code base](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/Popup)
+
+## JS Basics
