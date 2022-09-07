@@ -68,3 +68,6 @@ Everything is new and exciting for me, I still need to practice this topic.
 [Code base](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/Popup)
 
 ## JS Basics
+[link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_js_basics)
+I got acquainted with the new Switch Statements (replaces several if at once), the default option.
+Practiced tasks using ternary operator and recursion.
