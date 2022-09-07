@@ -7,7 +7,7 @@ Glory to Ukraine!
 Glory to the heroes!
 
 ## Linux CLI, and HTTP
-[link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_js_basics)  
+[link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_linux_cli)  
 Linex commands is a new topic for me.
 The material for study is presented in an easy and interesting way.
 Especially in the case of a zoo.
