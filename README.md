@@ -7,11 +7,11 @@ Glory to Ukraine!
 Glory to the heroes!
 
 ## Linux CLI, and HTTP
+[link to screenshot]([https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_js_basics])  
 Linex commands is a new topic for me.
 The material for study is presented in an easy and interesting way.
 Especially in the case of a zoo.
 I add a link to the screenshot of 4 modules, the rest of the screenshots in the repo kottans-frontend.
-![linux-task-4](https://user-images.githubusercontent.com/110328930/183439342-55b9c10b-a274-432f-aad4-8fd38862c495.jpg)
 
 ## HTTP
 I learned that the HTTP protocol is the basis of data exchange on the Internet.
