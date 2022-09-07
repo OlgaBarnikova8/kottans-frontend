@@ -25,6 +25,7 @@ Thanks to these articles, I got an idea about the HTTP protocol and the problems
 In the future, as a user, I will confirm cookie requests and sign up.
 
 ## Git Collaboration
+[link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_git_collaboration)    
 I learned how it works with Git. 
 Git rebase it's a new command for me. I think it will be possible to use in practice.
 
@@ -37,7 +38,7 @@ In the https://learngitbranching.js.org level, I tried out the git rebase comman
 
 I practiced a new command git fetch that is responsible for synchronization with a remote repository.
 A command git fakeTeamwork surprised me (teamwork simulation).
-![image](https://user-images.githubusercontent.com/110328930/184479460-1b5ce7e5-c4b5-45bf-98d8-3b0f56d23839.png)
+
 
 ## Intro to HTML and CSS
 ![image](https://user-images.githubusercontent.com/110328930/185641062-281d1501-e112-4dd3-bc08-deb2233d79fa.png)
