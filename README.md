@@ -42,7 +42,6 @@ A command git fakeTeamwork surprised me (teamwork simulation).
 
 ## Intro to HTML and CSS
 [link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_html_css_intro)  
-
 I created my site on GitHub for the first time, I will use it in the future.
 I liked 9th lecture "Links to section of the same page", I will use it in practice. 
 https://www.coursera.org/learn/html-css-javascript-for-web-developers/lecture/kMmI7/lecture-9-creating-links
@@ -55,10 +54,10 @@ I was surprised by the great possibilities of the tag FORM and I plan to use it 
 I was impressed with the style options: wide range of color, tint, opacity and font family.
 
 ## Responsive Web Design
+[link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/task_responsive_web_design)   
 Flexbox is an interesting topic. 
 I plan to use working with elements in the future: 
 justify-content, align-items, flex-direction, order, align-self, flex-wrap, flex-flow, align-content.
-![image](https://user-images.githubusercontent.com/110328930/185797936-99e19c17-8335-4954-9efc-54025e1a7724.png)
 I got familiar with CSS Grid Layout.
 Everything is new and exciting for me, I still need to practice this topic.
 
