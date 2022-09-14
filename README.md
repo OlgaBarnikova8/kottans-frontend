@@ -71,4 +71,5 @@ Everything is new and exciting for me, I still need to practice this topic.
 I got acquainted with the new Switch Statements (replaces several if at once), the default option.
 Practiced tasks using ternary operator and recursion.
 I understanded functional programming terminology. I used the map, filter, slice, concat, reduce, sort, split, join, trim, every and some method.
-https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/
+[link to course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/) 
+
