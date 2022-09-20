@@ -73,3 +73,8 @@ Practiced tasks using ternary operator and recursion.
 I understanded functional programming terminology. I used the map, filter, slice, concat, reduce, sort, split, join, trim, every and some method.
 [link to course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/) 
 
+## DOM
+[link to screenshot](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/dom)  
+[Demo](https://olgabarnikova8.github.io/Side-menu-burger/) |
+[Code base](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/dom)
+
