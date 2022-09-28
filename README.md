@@ -78,3 +78,7 @@ I understanded functional programming terminology. I used the map, filter, slice
 [Demo](https://olgabarnikova8.github.io/Side-menu-burger/) |
 [Code base](https://github.com/OlgaBarnikova8/kottans-frontend/tree/main/dom)
 
+## A Tiny JS World
+[Demo](https://olgabarnikova8.github.io/js-world/) |
+[Code base](https://github.com/OlgaBarnikova8/js-world)
+
